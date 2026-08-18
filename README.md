@@ -38,9 +38,9 @@ Anfragen für Schulen und Bildungseinrichtungen sind herzlich willkommen: **info
 
 ## 📰 Presse & Auszeichnungen
 
-- **BvLB-Fachzeitschrift** (Ausgabe August/September 2026): Artikel über COLOCampus im Mathematikunterricht am Berufskolleg 
-- **BBW-Fachzeitschrift** (vlbs, Ausgabe März/April 2026): ausführlicher Artikel über COLOCampus
-- **Hermann-Schmidt-Preis 2025** – Sonderpreis für "Künstliche Intelligenz (KI) am Georg-Kerschensteiner-Berufskolleg" (Berufsschullehrkräfte Anne Stein und Boris Sauer)
+- **[https://kiosk.bvlb.de/presenter/ccc40ca6-c033-46a5-8c7f-96cd6f452e54?publication=48f5c1de-e92a-435a-9e8b-b5d5a6262077&titleBar=false](BvLB-Fachzeitschrift)** (Ausgabe August/September 2026): Artikel über COLOCampus im Mathematikunterricht am Berufskolleg 
+- **[https://online.fliphtml5.com/irlca/BBW-Ausgabe-03-04-Jahrgang-2026/#p=38](BBW-Fachzeitschrift)** (vlbs, Ausgabe März/April 2026): ausführlicher Artikel über COLOCampus
+- **[https://www.bibb.de/dokumente/pdf/Broschuere_HSP_2025_final.pdf](Hermann-Schmidt-Preis 2025)** – Sonderpreis für "Künstliche Intelligenz (KI) am Georg-Kerschensteiner-Berufskolleg" (Berufsschullehrkräfte Anne Stein und Boris Sauer)
 - Berichterstattung durch das **Ministerium für Schule und Bildung NRW** und **Rhein-Sieg Aktuell**
 
 ## 🔗 Links
